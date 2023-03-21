@@ -2,8 +2,19 @@
 Он позволяет смотреть где находятся заболевшие рядом с запрашиваемым адресом
 и узнавать, сколько их.
 
+~3000 уникальных посетителей, на пике 1600 ежедневных посещений  
+
+Рейтинг 4.1, был первым по запросу "корона" и в топ-5 в категории "Новости"
+
 Ссылка на рабочий репозиторий навыка: https://github.com/govzman/alice-covid
 
 Или же можно просто сказать Алисе: Алиса, запусти навык коронавирус рядом
+Ниже приведено немного статистики из презентации: 
+
+![image](https://user-images.githubusercontent.com/58818686/226606979-326033ad-347a-4fa9-bde2-6b812ec25556.png)
+![image](https://user-images.githubusercontent.com/58818686/226608235-29d2e9b2-8585-45ae-b61c-1dd624a0263c.png)
+![image](https://user-images.githubusercontent.com/58818686/226608763-b68c09d5-b148-41ee-aee9-c04e70269239.png)
+![image](https://user-images.githubusercontent.com/58818686/226608727-470951c5-4003-40c4-9a05-9153a9c7789e.png)
+
 
 ![image](https://user-images.githubusercontent.com/58818686/226604070-be90720a-a954-48ad-b67f-4e3380c0a781.png)
